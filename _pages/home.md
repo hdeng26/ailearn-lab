@@ -1,7 +1,7 @@
 ---
-title: "AiLearn Lab - Home"
+title: "Yang's AiLearn Lab - Home"
 layout: homelay
-excerpt: "AiLearn Lab at Western University &rarr; UWO."
+excerpt: "Yang's AiLearn Lab at Western University &rarr; UWO."
 sitemap: false
 permalink: /
 ---

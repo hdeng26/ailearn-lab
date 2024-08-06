@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Yang's AiLearn Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Yang's AiLearn Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
