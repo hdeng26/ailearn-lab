@@ -1,9 +1,9 @@
 ---
-title: "Yang's AiLearn Lab - Research"
+title: "Yang's AiLearn Lab - Projects"
 layout: textlay
-excerpt: "Yang's AiLearn Lab -- Research"
+excerpt: "Yang's AiLearn Lab -- Projects"
 sitemap: false
-permalink: /project/
+permalink: /projects/
 ---
 
 # Projects
