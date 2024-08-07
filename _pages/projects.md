@@ -14,7 +14,7 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 ## On going projects
 
 ### Ethical AI for Mammogram Analysis
-![]({{ site.url }}{{ site.baseurl }}/images/projects/mamm_project.png)![]{: style="width: 70%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/mamm_project.png)![]{: style="width: 30%; float: center; margin: 0px"}
 **Project Overview:** The project aims to develop a novel AI system to assist radiologists in interpreting mammograms (MGs) by addressing technical issues such as the lack of large-scale datasets, label variance, and imbalance caused by the low prevalence of abnormal findings in MGs. The goal is to enhance the generalizability, multimodality, and clinical workflow applicability of AI models, ultimately building trust among radiologists and integrating ethical considerations into AI design.
 
 **Methods:** The project uses a variety of public imaging and text datasets from different countries to create a domain-adapted MG-specific foundation model (FM) from a retrained Vision-Language Model (VLM). The methodology involves generating text explanations for visual features and highlighting important visual regions, followed by several assessments with radiologists to gather feedback and labels of trust, error severity, and necessary actions. Ethical assessments will include evaluating biases based on various demographic and clinical factors. Additionally, prospective screening data from a local Canadian institution will be collected to validate the model.
@@ -50,12 +50,12 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 **Objective:** Develop a self-supervised learning model to accurately detect different areas within a home, starting with the floor plan.
 **Approach:** We leverage cutting-edge AI models to detect and delineate distinct areas within home layouts, crucial for advanced feature recognition and property evaluation.
 
-#### Stage 2: Luxury Level Assessment for Room Categorization [Read the published paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10444335).
+#### Stage 2: Luxury Level Assessment for Room Categorization [[Read the published paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10444335).
 **Objective:** Classify the luxury level of rooms to enhance listing details and attract higher-value engagements.
 **Approach:** Utilizing AI to classify rooms based on their luxury level, ensuring each property is marketed according to its true potential.
 
 #### Ongoing Directions
-![]({{ site.url }}{{ site.baseurl }}/images/respic/virtual_staging.png){: style="width: 85%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/virtual_staging.png){: style="width: 85%; float: center; margin: 0px"}
 - **Virtual Staging:** Currently ongoing, this phase aims to digitally furnish properties to enhance visual appeal in listings.
 - **Recommendation System:** Also ongoing, this system will suggest properties based on user preferences, optimizing the search and discovery process.
 - **Information Extraction:** In progress, focusing on extracting and summarizing key information from listings to streamline the marketing and sales processes.
@@ -67,7 +67,7 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 ## Finished projects
 
 ### Recommendation System for Enhanced User Experience
-![]({{ site.url }}{{ site.baseurl }}/images/projects/rec_sys_poster.png){: style="width: 90%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/rec_sys_poster.png){: style="width: 100%; float: center; margin: 0px"}
 **Project Overview:** In this innovative project, our lab developed a two-part recommendation system aimed at significantly enhancing user experience by effectively utilizing big data and advanced machine learning techniques. The project was part of the Mitacs-Accelerate program and was carried out in close collaboration with industry partners.
 
 **Objective:** The primary goal was to construct a business-oriented user persona and predict consumer preferences more accurately. This system was designed to support marketing analysis and streamline product recommendations based on user data.
