@@ -14,7 +14,7 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 ## On going projects
 
 ### Ethical AI for Mammogram Analysis
-![]({{ site.url }}{{ site.baseurl }}/images/projects/mamm_project.png){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/mamm_project.png)![]{: style="width: 70%; float: center; margin: 0px"}
 **Project Overview:** The project aims to develop a novel AI system to assist radiologists in interpreting mammograms (MGs) by addressing technical issues such as the lack of large-scale datasets, label variance, and imbalance caused by the low prevalence of abnormal findings in MGs. The goal is to enhance the generalizability, multimodality, and clinical workflow applicability of AI models, ultimately building trust among radiologists and integrating ethical considerations into AI design.
 
 **Methods:** The project uses a variety of public imaging and text datasets from different countries to create a domain-adapted MG-specific foundation model (FM) from a retrained Vision-Language Model (VLM). The methodology involves generating text explanations for visual features and highlighting important visual regions, followed by several assessments with radiologists to gather feedback and labels of trust, error severity, and necessary actions. Ethical assessments will include evaluating biases based on various demographic and clinical factors. Additionally, prospective screening data from a local Canadian institution will be collected to validate the model.
@@ -24,7 +24,7 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 **Future Direction:** Future directions involve further refining the AI models based on continuous feedback from radiologists and ethical assessments. The project will explore scenarios for updating the models and address concerns about overdiagnosis, especially for disadvantaged groups. The long-term goal is to expand the capacity for routine MG screening in Canada, potentially alleviating the burden on radiologists due to increased screening needs. The successful integration of AI tools in clinical practice could have significant economic and clinical impacts.
 
 ### Force Prediction of Gust Impact on Buildings with Time-Series Transformer Models
-![]({{ site.url }}{{ site.baseurl }}/images/projects/gust_project.png){: style="width: 250px; float: right; margin: 0px 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/gust_project.png){: style="width: 600px; float: right; margin: 0px 10px"}
 
 **Project Overview:** The wind energy project focuses on understanding and predicting the effects of wind on buildings by analyzing the wind forces at various points on a building's surface. This is a complex regression problem where the goal is to predict the wind's impact on a building based on various input features, such as the building's dimensions, the angle of the roof, the angle of the wind hitting the roof, and the fluctuation of the wind. The output is a detailed map of wind forces on different coordinate points of the building, helping us understand how wind energy disperses and exerts pressure across the building's surface.
 
@@ -55,7 +55,7 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 **Approach:** Utilizing AI to classify rooms based on their luxury level, ensuring each property is marketed according to its true potential.
 
 #### Ongoing Directions
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/virtual_staging.png){: style="width: 85%; float: center; margin: 0px"}
 - **Virtual Staging:** Currently ongoing, this phase aims to digitally furnish properties to enhance visual appeal in listings.
 - **Recommendation System:** Also ongoing, this system will suggest properties based on user preferences, optimizing the search and discovery process.
 - **Information Extraction:** In progress, focusing on extracting and summarizing key information from listings to streamline the marketing and sales processes.
