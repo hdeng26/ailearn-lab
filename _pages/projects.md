@@ -52,6 +52,8 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 **Approach:** We leverage cutting-edge AI models to detect and delineate distinct areas within home layouts, crucial for advanced feature recognition and property evaluation.
 
 #### Stage 2: Luxury Level Assessment for Room Categorization [[Read the published paper here]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10444335).
+![]({{ site.url }}{{ site.baseurl }}/images/projects/luxury_classification.png){: style="width: 80%; float: center; margin: 0px"}
+
 **Objective:** Classify the luxury level of rooms to enhance listing details and attract higher-value engagements.
 **Approach:** Utilizing AI to classify rooms based on their luxury level, ensuring each property is marketed according to its true potential.
 
