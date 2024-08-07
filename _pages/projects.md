@@ -14,7 +14,7 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 ## On going projects
 
 ### Ethical AI for Mammogram Analysis
-![]({{ site.url }}{{ site.baseurl }}/images/projects/mamm_project.png)![]{: style="width: 30%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/mamm_project.png){: style="width: 80%; float: center; margin: 0px"}
 **Project Overview:** The project aims to develop a novel AI system to assist radiologists in interpreting mammograms (MGs) by addressing technical issues such as the lack of large-scale datasets, label variance, and imbalance caused by the low prevalence of abnormal findings in MGs. The goal is to enhance the generalizability, multimodality, and clinical workflow applicability of AI models, ultimately building trust among radiologists and integrating ethical considerations into AI design.
 
 **Methods:** The project uses a variety of public imaging and text datasets from different countries to create a domain-adapted MG-specific foundation model (FM) from a retrained Vision-Language Model (VLM). The methodology involves generating text explanations for visual features and highlighting important visual regions, followed by several assessments with radiologists to gather feedback and labels of trust, error severity, and necessary actions. Ethical assessments will include evaluating biases based on various demographic and clinical factors. Additionally, prospective screening data from a local Canadian institution will be collected to validate the model.
