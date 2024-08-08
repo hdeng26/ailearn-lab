@@ -10,7 +10,7 @@ permalink: /projects/
 
 At AiLearn Lab, our mission is to demystify artificial intelligence and bridge the gap between academic research and industrial application. We are committed to advancing the understanding and implementation of AI technologies across various domains. Our collaborations with industry partners are designed to apply cutting-edge AI research to real-world challenges, creating innovative solutions that propel both scientific and practical advancements. By integrating academic insights with industry expertise, we aim to foster transformative technologies that can scale from the lab to the field, enhancing both economic and societal well-being.
 
-
+---
 ## On going projects
 
 ### Ethical AI for Mammogram Analysis
@@ -65,11 +65,9 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 - **Recommendation System:** Also ongoing, this system will suggest properties based on user preferences, optimizing the search and discovery process.
 - **Information Extraction:** In progress, focusing on extracting and summarizing key information from listings to streamline the marketing and sales processes.
 
+---
 
-
-
-
-## Finished projects
+## **Finished projects**
 
 ### Recommendation System for Enhanced User Experience
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/rec_sys_poster.png){: style="width: 100%; float: center; margin: 0px"}
@@ -83,4 +81,3 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 
 **Future Directions:** The project has set the stage for further enhancements to the recommendation algorithm, with potential improvements in computational efficiency and accuracy. Continued collaboration with industry partners will focus on refining these systems to adapt to evolving market needs and consumer data insights.
 
-### ... and more.
