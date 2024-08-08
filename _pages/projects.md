@@ -11,7 +11,7 @@ permalink: /projects/
 At AiLearn Lab, our mission is to demystify artificial intelligence and bridge the gap between academic research and industrial application. We are committed to advancing the understanding and implementation of AI technologies across various domains. Our collaborations with industry partners are designed to apply cutting-edge AI research to real-world challenges, creating innovative solutions that propel both scientific and practical advancements. By integrating academic insights with industry expertise, we aim to foster transformative technologies that can scale from the lab to the field, enhancing both economic and societal well-being.
 
 ---
-## On going projects
+## **On going projects**
 
 ### Ethical AI for Mammogram Analysis
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/mamm_project.png){: style="width: 80%; float: center; margin: 0px"}
