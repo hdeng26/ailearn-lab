@@ -59,11 +59,13 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 
 **Approach:** Utilizing AI to classify rooms based on their luxury level, ensuring each property is marketed according to its true potential.
 
+<!-- 
 #### Ongoing Directions
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/virtual_staging.png){: style="width: 85%; float: center; margin: 0px"}
 - **Virtual Staging:** Currently ongoing, this phase aims to digitally furnish properties to enhance visual appeal in listings.
 - **Recommendation System:** Also ongoing, this system will suggest properties based on user preferences, optimizing the search and discovery process.
 - **Information Extraction:** In progress, focusing on extracting and summarizing key information from listings to streamline the marketing and sales processes.
+-->
 
 ---
 
