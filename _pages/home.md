@@ -53,16 +53,15 @@ permalink: /
 </div>
 
 
-We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
+We are a dynamic research group located at the Thompson Engineering building at Western University. Our research focuses on artificial intelligence (AI), machine learning, image processing, data analysis, and large language models. By exploring the exceptional capabilities of AI in the fields of image and data processing, we aim to advance the frontiers of these technologies.
 
+Our scientific goal is to develop cutting-edge AI technologies that surpass existing methods, driving improvements across various industries. We are not only users of these technologies but also innovators, creating advanced AI systems tailored to solve important real-world challenges.
 
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
+We look forward to continuing our work at Western University, driving scientific discoveries and technological breakthroughs while collaborating with world-class AI research teams to usher in a new era of technological advancement.
 
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
+Western University, established in 1878, is renowned as one of Canada's leading research-intensive institutions. With annual research funding exceeding $240 million, it supports innovative research across numerous fields. The university is home to cutting-edge facilities, such as the WindEEE Dome and the Brain and Mind Institute, fostering collaboration across disciplines, including computer science and engineering. Western has consistently ranked among the top 1% of universities worldwide, earning a reputation for excellence in research and education.
 
-Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
-
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
+Our research group is grateful for the funding support provided by Western University, which empowers us to continue our groundbreaking work at the intersection of AI and data science.
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
