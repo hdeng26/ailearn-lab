@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [lab visitors](#lab-visitors).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -131,9 +131,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
- <! --
-## Alumni
-
+ 
+[comment]: ## Alumni
+<! --
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
@@ -170,14 +170,15 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
+<h4>Master students</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
-
+</div>
+<! --
 <div class="col-sm-4 clearfix">
-<h4>Master students</h4>
+<h4>Visitor</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
@@ -189,9 +190,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {{ member.name }}
 {% endfor %}
 </div>
-
-</div>
-
+-->
 
 [comment]: ## Administrative Support
 [comment]: <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
