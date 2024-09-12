@@ -9,7 +9,7 @@ permalink: /
 **News: New website for our group!** 
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -23,33 +23,33 @@ permalink: /
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/jetson.png" alt="Slide 1" />
+        <div class="item active" style="background-color: white; display: flex; align-items: center; justify-content: center; width: 1400px; height: 700px;">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/jetson.png" alt="Slide 1" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/yang-tpami.gif" alt="Slide 2" />
+        <div class="item" style="background-color: white; display: flex; align-items: center; justify-content: center; width: 1400px; height: 700px;">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tpami.png" alt="Slide 2" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/virtual_staging.png" alt="Slide 3" />
+        <div class="item" style="background-color: white; display: flex; align-items: center; justify-content: center; width: 1400px; height: 700px;">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/virtual_staging.png" alt="Slide 3" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/icce.png" alt="Slide 4" />
+        <div class="item" style="background-color: white; display: flex; align-items: center; justify-content: center; width: 1400px; height: 700px;">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/icce.png" alt="Slide 4" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ConTex.png" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lambda.png" alt="Slide 6" />
+        <div class="item" style="background-color: white; display: flex; align-items: center; justify-content: center; width: 1400px; height: 700px;">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ConTex.png" alt="Slide 5" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
+        </div>
+        <div class="item" style="background-color: white; display: flex; align-items: center; justify-content: center; width: 1400px; height: 700px;">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lambda.png" alt="Slide 6" style="max-width: 100%; max-height: 100%; object-fit: contain;" />
         </div>
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+    <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
 </div>
 
 
