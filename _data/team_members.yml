@@ -16,9 +16,8 @@
   number_educ: 5
   education1: Postdoc University of Windsor
   education2: PhD University of Windsor
-  education3: MSc Ocean University of China
-  education4: BSc Ocean University of China
-  education5: Research Interest - radar image processing, remote signal processing, feature learning and representation, deep neural networks and applications on computer vision
+  education3: BSc and MSc Ocean University of China
+  education4: Research Interest - radar image processing, remote signal processing, feature learning and representation, deep neural networks and applications on computer vision
 
 - name: Haojin Deng
   photo: haojin.jpeg
@@ -32,22 +31,12 @@
 
 - name: Yuqi Liu
   photo: yuqi.png
-  info: Doctoral Student, since 2023
+  info: Doctoral Student, since September 2023
   email: yliu4885@uwo.ca
   number_educ: 2
   education1: Master Northwestern University
   education2: Research Interest - reinforcement learning and optimization in ML/AI
 
-- name: Zhichen Yan
-  photo: zhichen.jpg
-  duration: In the Yang's AiLearn Lab 2024 - present
-  info: Master Student
-  email: zyan297@uwo.ca
-  number_educ: 2
-  education1: Bachelor of Computer Science at Hefei University of Technology, China
-  education2: Research Interest - Medical Image Processing, Machine Learning, Artificial Intelligence
-  education3:
-  education4:
 
 - name: "This could be you !"
   photo: rock.jpg

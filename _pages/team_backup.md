@@ -132,8 +132,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
  
-[comment]: ## Alumni
-<! --
+## Alumni
+
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
@@ -164,7 +164,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
--->
+
 
 ## Former visitors, BSc/ MSc students
 <div class="row">
