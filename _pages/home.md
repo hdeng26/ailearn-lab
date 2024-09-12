@@ -24,22 +24,22 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/jetson.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/yang-tpami.gif" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/virtual_staging.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/icce.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ConTex.png" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lambda.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -69,11 +69,11 @@ Our research group is grateful for the funding support provided by Western Unive
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/western.png" style="width: 210px; margin: 10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc.png" style="width: 180px; margin: 10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vi.png" style="width: 120px; margin: 10px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc.png" style="width: 160px; margin: 10px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vi.png" style="width: 100px; margin: 10px;">
 </figure>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/computecanada.png" style="width: 210px; margin: 10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs.png" style="width: 210px; margin: 10px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/computecanada.png" style="width: 210px; margin: 30px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs.png" style="width: 200px; margin: 30px;">
 </figure>
