@@ -3,12 +3,11 @@
   info: Assistant professor
   email: yimin.yang@uwo.ca
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD Hunan University
-  education3: Postdoc University of Windsor
-  education4: Faculty Affiliate Member in <a href="https://vectorinstitute.ai/">Vector Institute</a>, Canada
-  education5: Associate Editor for the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology</a>, <a href="https://link.springer.com/journal/12559">Cognitive Computation</a>, and <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing</a>
-  #education6: Reserach Interest - artificial neural networks, image processing, and data analysis
+  education1: PhD Hunan University
+  education2: Postdoc University of Windsor
+  education3: Faculty Affiliate Member in <a href="https://vectorinstitute.ai/">Vector Institute</a>, Canada
+  education4: Associate Editor for the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology</a>, <a href="https://link.springer.com/journal/12559">Cognitive Computation</a>, and <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing</a>
+  education5: Reserach Interest - artificial neural networks, image processing, and data analysis
 
 - name: Wandong Zhang
   photo: wandong.png
@@ -38,6 +37,17 @@
   number_educ: 2
   education1: Master Northwestern University
   education2: Research Interest - reinforcement learning and optimization in ML/AI
+
+- name: Zhichen Yan
+  photo: zhichen.jpg
+  duration: In the Yang's AiLearn Lab 2024 - present
+  info: Master Student
+  email: zyan297@uwo.ca
+  number_educ: 2
+  education1: Bachelor of Computer Science at Hefei University of Technology, China
+  education2: Research Interest - Medical Image Processing, Machine Learning, Artificial Intelligence
+  education3:
+  education4:
 
 - name: "This could be you !"
   photo: rock.jpg

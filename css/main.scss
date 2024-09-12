@@ -91,3 +91,14 @@ firstp {
     margin-right: 30px;
 }
 
+
+.logo-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Adjust the gap between logos as needed */
+  margin-bottom: 10px; /* Space between the rows, adjust as needed */
+}
+
+.logo {
+  max-width: 100%;
+}

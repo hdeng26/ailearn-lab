@@ -67,9 +67,14 @@ Our research group is grateful for the funding support provided by Western Unive
 
 
 
-
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/western.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vi.png" style="width: 120px">
+  <div class="logo-row">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/western.png" class="logo">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc.png" class="logo">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vi.png" class="logo">
+  </div>
+  <div class="logo-row">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/computecanada.png" class="logo">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs.png" class="logo">
+  </div>
 </figure>
