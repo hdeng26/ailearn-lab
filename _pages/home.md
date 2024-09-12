@@ -79,3 +79,24 @@ Our research group is grateful for the funding support provided by Western Unive
   </div>
 </figure>
 
+<figure class="fourth" style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/western.png" style="width: 210px; margin: 10px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc.png" style="width: 180px; margin: 10px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vi.png" style="width: 120px; margin: 10px;">
+  </div>
+  <br>
+  <div style="display: inline-block; margin-top: 10px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/computecanada.png" style="width: 210px; margin: 10px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs.png" style="width: 210px; margin: 10px;">
+  </div>
+</figure>
+
+<figure class="fourth">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/western.png" style="width: 210px; margin: 10px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc.png" style="width: 180px; margin: 10px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vi.png" style="width: 120px; margin: 10px;">
+  <br>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/computecanada.png" style="width: 210px; margin: 10px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs.png" style="width: 210px; margin: 10px;">
+</figure>
