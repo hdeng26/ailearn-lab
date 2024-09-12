@@ -90,20 +90,3 @@ firstp {
     margin-left: 30px;
     margin-right: 30px;
 }
-
-.fourth {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.logo-row {
-  display: flex;
-  justify-content: center;
-  gap: 20px; /* Adjust the gap between logos as needed */
-  margin-bottom: 10px; /* Space between the rows, adjust as needed */
-}
-
-.logo {
-  max-width: 100%;
-}
