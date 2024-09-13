@@ -2,12 +2,8 @@
   photo: yimin.jpg
   info: Assistant professor
   email: yimin.yang@uwo.ca
-  number_educ: 5
-  education1: PhD Hunan University
-  education2: Postdoc University of Windsor
-  education3: Faculty Affiliate Member in <a href="https://vectorinstitute.ai/">Vector Institute</a>, Canada
-  education4: Associate Editor for the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">IEEE Transactions on Circuits and Systems for Video Technology</a>, <a href="https://link.springer.com/journal/12559">Cognitive Computation</a>, and <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing</a>
-  education5: Reserach Interest - artificial neural networks, image processing, and data analysis
+  number_educ: 1
+  education1: Reserach Interest - artificial neural networks, image processing, and data analysis
 
 - name: Wandong Zhang
   photo: wandong.png
