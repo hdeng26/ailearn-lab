@@ -18,5 +18,15 @@
   email: jschaff4@uwo.ca
   number_educ: 2
   education1: Bachelor of Applied Science (BASc) in Computer Engineering at Queen's University
-  education2: Research Interest - Machine Learning, Computer Vision, Medical Image Processing 
+  education2: Research Interest - Machine Learning, Computer Vision, Medical Image Processing
+
+- name: Scott Murray
+  photo: scott.jpg
+  duration: In the Yang's AiLearn Lab 2024 - present
+  info: Master Student, since September 2024
+  email: smurr4@uwo.ca
+  number_educ: 2
+  education1: Bachelor of Engineering Science (BESc) in Software Engineering at Western University
+  education2: Research Interest - Generative Models, Convolutional Neural Networks, Transfer Learning, Natural Language Processing
+
 
