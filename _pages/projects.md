@@ -14,8 +14,8 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 ## **On going projects**
 ### Optimizing DCNNs with Non-Iterative Recalculation Using Moore-Penrose Inverse [Read the published paper here](https://ieeexplore.ieee.org/abstract/document/8718406)
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projects/pami_left.gif" style="width: 60%; margin: 30px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projects/pami_right.gif" style="width: 30%; margin: 30px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/projects/pami_left.gif" style="width: 50%; margin: 10px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/projects/pami_right.gif" style="width: 30%; margin: 10px;">
 </figure>
 
 **Project Overview:** This research proposes a non-iterative optimization strategy to improve the performance of deep convolutional neural networks (DCNNs). Traditional models rely heavily on backpropagation (BP) for training, which can be slow and prone to local minima. To address these limitations, the study focuses on recalculating the weights of fully connected (FC) layers using the Moore-Penrose Inverse. By keeping the network structure unchanged and focusing on optimizing the FC layers, the approach aims to enhance both the accuracy and generalization capability of the models.
