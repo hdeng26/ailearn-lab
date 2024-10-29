@@ -6,25 +6,38 @@ sitemap: false
 permalink: /projects/
 ---
 
-# Projects
+# Research
 
 At AiLearn Lab, our mission is to demystify artificial intelligence and bridge the gap between academic research and industrial application. We are committed to advancing the understanding and implementation of AI technologies across various domains. Our collaborations with industry partners are designed to apply cutting-edge AI research to real-world challenges, creating innovative solutions that propel both scientific and practical advancements. By integrating academic insights with industry expertise, we aim to foster transformative technologies that can scale from the lab to the field, enhancing both economic and societal well-being.
 
 ---
-## **On going projects**
-### Optimizing DCNNs with Non-Iterative Recalculation Using Moore-Penrose Inverse [[paper]](https://ieeexplore.ieee.org/abstract/document/8718406)
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projects/pami_left.gif" style="width: 50%; margin: 10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projects/pami_right.gif" style="width: 30%; margin: 10px;">
-</figure>
+## **On going research program**
 
-**Project Overview:** This research proposes a non-iterative optimization strategy to improve the performance of deep convolutional neural networks (DCNNs). Traditional models rely heavily on backpropagation (BP) for training, which can be slow and prone to local minima. To address these limitations, the study focuses on recalculating the weights of fully connected (FC) layers using the Moore-Penrose Inverse. By keeping the network structure unchanged and focusing on optimizing the FC layers, the approach aims to enhance both the accuracy and generalization capability of the models.
+**Research Review:**
 
-**Methods:** The proposed method introduces a two-step training process. First, the model undergoes initial training using standard BP with stochastic gradient descent. After this stage, the FC layers are retrained using the Moore-Penrose Inverse, which adjusts weights without iterative backpropagation. This strategy leverages the residual errors from the network to calculate desired outputs for the FC layers, improving performance without modifying the network architecture. The approach is applied to several well-known models, including AlexNet, VGG-16, and ResNet-50, and tested across various datasets like CIFAR-10, CIFAR-100, and ImageNet.
 
-**Results:** The experimental results demonstrate that the proposed method consistently improves accuracy across multiple datasets. For instance, the method achieved 94.8% accuracy on the Scene-15 dataset, approaching human-level performance. On CIFAR-10 and CIFAR-100, networks retrained using this method outperformed their BP-trained counterparts by 1-2%. Additionally, even large models like ResNet and DenseNet showed notable gains in generalization performance. Despite the additional computation required for the FC layer retraining, the impact on training time was minimal when using GPU acceleration.
+Our primary work focuses on utilizing new algorithms to train neural networks. Over the past decade, we have successfully employed non-iterative learning methods to train hundreds of feedforward neural networks, thousands to tens of thousands of autoencoders, and deep convolutional neural networks with up to 50 million parameters. For instance, our latest theory enabled us to successfully train a 101-layer ResNet using our novel learning methods, enhancing learning effectiveness and generalization performance.
 
-**Future Directions:** Future research could explore applying non-iterative learning techniques to convolutional layers to further enhance performance. Additionally, the method could be generalized to newer architectures, such as Transformer models, to evaluate its effectiveness beyond CNNs. Reducing computational overhead during feature extraction and retraining is another avenue for exploration, ensuring the method remains efficient at scale. Lastly, expanding the use of this approach in fields like healthcare and autonomous driving could unlock new opportunities for deploying high-performance DCNN models in real-world applications.
+![]({{ site.url }}{{ site.baseurl }}/images/projects/pami.jpg){: style="width: 100%; float: center; margin: 0px"}
+
+**Method:**
+
+
+We utilize Moore-Penrose matrix inversion to train all neurons in neural networks. As a result, we had to redesign the entire error backpropagation process and the parameter update mechanisms for each neuron layer. We also developed specific algorithms for different types of neural layers, including fully connected layers, ReLU layers, normalization layers, softmax layers, addition layers, attention head, and others.
+
+
+**Result:**
+
+
+Our method demonstrates that, with less than 50 million parameters, the proposed algorithm can significantly enhance performance and learning speed. Additionally, at the same performance level, the new training method can substantially reduce the number of parameters in the neural network. This leads to more efficient models that require less computational resources.
+
+
+**Future Direction:**
+
+In the future, we aim to apply this method to train large language models (LLMs) such as BERT, GPT, and Llama. By leveraging our novel training algorithms, we hope to improve the efficiency and performance of these models. This could lead to faster training times, reduced computational costs, and enhanced generalization capabilities in natural language processing tasks.
+
+---
+## **On going applied projects**
 
 ### Towards Trustworthy AI that Aids Radiologists in Mammogram Analysis: An Interdisciplinary Approach using AI, Healthcare Data Science, and Ethics in Technology
 
