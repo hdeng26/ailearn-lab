@@ -12,13 +12,19 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 
 ---
 ## **On going projects**
-### [Recomputation of the Dense Layers for Performance Improvement of DCNN](https://ieeexplore.ieee.org/abstract/document/8718406)
-![]({{ site.url }}{{ site.baseurl }}/images/projects/mamm_project.png){: style="width: 80%; float: left; margin: 0px"}
+### Optimizing DCNNs with Non-Iterative Recalculation Using Moore-Penrose Inverse [Read the published paper here](https://ieeexplore.ieee.org/abstract/document/8718406)
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/projects/pami_left.gif" style="width: 60%; margin: 30px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projects/pami_right.gif" style="width: 30px; margin: 30px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/projects/pami_right.gif" style="width: 30%; margin: 30px;">
 </figure>
 
+**Project Overview:** This research proposes a non-iterative optimization strategy to improve the performance of deep convolutional neural networks (DCNNs). Traditional models rely heavily on backpropagation (BP) for training, which can be slow and prone to local minima. To address these limitations, the study focuses on recalculating the weights of fully connected (FC) layers using the Moore-Penrose Inverse. By keeping the network structure unchanged and focusing on optimizing the FC layers, the approach aims to enhance both the accuracy and generalization capability of the models.
+
+**Methods:** The proposed method introduces a two-step training process. First, the model undergoes initial training using standard BP with stochastic gradient descent. After this stage, the FC layers are retrained using the Moore-Penrose Inverse, which adjusts weights without iterative backpropagation. This strategy leverages the residual errors from the network to calculate desired outputs for the FC layers, improving performance without modifying the network architecture. The approach is applied to several well-known models, including AlexNet, VGG-16, and ResNet-50, and tested across various datasets like CIFAR-10, CIFAR-100, and ImageNet.
+
+**Results:** The experimental results demonstrate that the proposed method consistently improves accuracy across multiple datasets. For instance, the method achieved 94.8% accuracy on the Scene-15 dataset, approaching human-level performance. On CIFAR-10 and CIFAR-100, networks retrained using this method outperformed their BP-trained counterparts by 1-2%. Additionally, even large models like ResNet and DenseNet showed notable gains in generalization performance. Despite the additional computation required for the FC layer retraining, the impact on training time was minimal when using GPU acceleration.
+
+**Future Directions:** Future research could explore applying non-iterative learning techniques to convolutional layers to further enhance performance. Additionally, the method could be generalized to newer architectures, such as Transformer models, to evaluate its effectiveness beyond CNNs. Reducing computational overhead during feature extraction and retraining is another avenue for exploration, ensuring the method remains efficient at scale. Lastly, expanding the use of this approach in fields like healthcare and autonomous driving could unlock new opportunities for deploying high-performance DCNN models in real-world applications.
 
 ### Towards Trustworthy AI that Aids Radiologists in Mammogram Analysis: An Interdisciplinary Approach using AI, Healthcare Data Science, and Ethics in Technology
 
