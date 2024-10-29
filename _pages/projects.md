@@ -12,8 +12,16 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 
 ---
 ## **On going projects**
+### [Recomputation of the Dense Layers for Performance Improvement of DCNN](https://ieeexplore.ieee.org/abstract/document/8718406)
+![]({{ site.url }}{{ site.baseurl }}/images/projects/mamm_project.png){: style="width: 80%; float: left; margin: 0px"}
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/projects/pami_left.gif" style="width: 60%; margin: 30px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/projects/pami_right.gif" style="width: 30px; margin: 30px;">
+</figure>
 
-### Ethical AI for Mammogram Analysis
+
+### Towards Trustworthy AI that Aids Radiologists in Mammogram Analysis: An Interdisciplinary Approach using AI, Healthcare Data Science, and Ethics in Technology
+
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/mamm_project.png){: style="width: 80%; float: center; margin: 0px"}
 
 **Project Overview:** The project aims to develop a novel AI system to assist radiologists in interpreting mammograms (MGs) by addressing technical issues such as the lack of large-scale datasets, label variance, and imbalance caused by the low prevalence of abnormal findings in MGs. The goal is to enhance the generalizability, multimodality, and clinical workflow applicability of AI models, ultimately building trust among radiologists and integrating ethical considerations into AI design.
