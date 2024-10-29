@@ -1,9 +1,9 @@
 ---
-title: "Yang's AiLearn Lab - Projects"
+title: "Yang's AiLearn Lab - Research"
 layout: textlay
-excerpt: "Yang's AiLearn Lab -- Projects"
+excerpt: "Yang's AiLearn Lab -- Research"
 sitemap: false
-permalink: /projects/
+permalink: /research/
 ---
 
 # Research
@@ -18,7 +18,7 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 
 Our primary work focuses on utilizing new algorithms to train neural networks. Over the past decade, we have successfully employed non-iterative learning methods to train hundreds of feedforward neural networks, thousands to tens of thousands of autoencoders, and deep convolutional neural networks with up to 50 million parameters. For instance, our latest theory enabled us to successfully train a 101-layer ResNet using our novel learning methods, enhancing learning effectiveness and generalization performance.
 
-![]({{ site.url }}{{ site.baseurl }}/images/projects/pami.jpg){: style="width: 100%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/pami.jpg){: style="width: 80%; float: center; margin: 0px"}
 
 **Method:**
 
