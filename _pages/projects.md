@@ -12,7 +12,7 @@ At AiLearn Lab, our mission is to demystify artificial intelligence and bridge t
 
 ---
 ## **On going projects**
-### Optimizing DCNNs with Non-Iterative Recalculation Using Moore-Penrose Inverse [Read the published paper here](https://ieeexplore.ieee.org/abstract/document/8718406)
+### Optimizing DCNNs with Non-Iterative Recalculation Using Moore-Penrose Inverse [[paper]](https://ieeexplore.ieee.org/abstract/document/8718406)
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/projects/pami_left.gif" style="width: 50%; margin: 10px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/projects/pami_right.gif" style="width: 30%; margin: 10px;">
