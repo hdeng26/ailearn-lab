@@ -62,7 +62,7 @@ Western University, established in 1878, is renowned as one of Canada's leading 
 
 Our research group is grateful for the funding support provided by Western University, which empowers us to continue our groundbreaking work at the intersection of AI and data science.
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new 2025 summer students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
